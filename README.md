@@ -1,4 +1,4 @@
-jack-qconsp
+jack-demo
 ===========
 
-Demo da palestra do QConSP 2013
+Demo da palestra
